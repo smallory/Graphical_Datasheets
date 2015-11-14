@@ -36,7 +36,7 @@ A3,,,,A3/D17,PC3,ADC3,,,,PCINT11,,,1
 A4,,,,A4/D18,PC4,ADC4,,SDA,,PCINT12,,,1
 A5,,,,A5/D19,PC5,ADC5,,SCL,,PCINT13,,,1
 Text,,,,,,,,,,,,,
-Power,VIN:7V-15V,VCC:5V,Maximum current: 800mA on 5V line, 150mA on 3.3V line,Absolute Maximum Current for Chip: 200mA,Absolute Maximum Current per pin: 40mA (recommended 20mA),,,,,,,,
+Power,VIN:7V-15V,VCC:5V,"Maximum current: 800mA on 5V line, 150mA on 3.3V line",Absolute Maximum Current for Chip: 200mA,Absolute Maximum Current per pin: 40mA (recommended 20mA),,,,,,,,
 LEDs,Power: Red,User (D13): Blue,RX: Yellow,TX: Red,,,,,,,,,
 MiniB USB,,,,,,,,,,,,,
 Reset Button,,,,,,,,,,,,,
